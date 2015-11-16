@@ -17,3 +17,5 @@ To run a game, three ingredients are needed:
 3. A network connection between the Raspberry Pis running each player and the game server (not needed if all are running on the same Raspberry Pi - useful for development)
 
 A video of the event at York (including another project-based challenge) is available [here](https://www.youtube.com/watch?v=CT_K9XD2YH0) and further details about the challenge are [here](https://www.cs.york.ac.uk/undergraduate/challenge/).
+
+The GUI is done entirely using python turtle! So, it's rather slow and could definitely be improved.
