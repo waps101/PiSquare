@@ -1,4 +1,7 @@
 # PiSquare
+
+![Screenshot](https://cloud.githubusercontent.com/assets/12893373/11183989/ce2c6704-8c6c-11e5-9f45-f41aa49dd6aa.png)
+
 This is a python template allowing two Raspberry Pis to play against each other in a variant of the classic game "dots and boxes". The game was used in the University of York Raspberry Pi challenge 2015.
 
 The game is intended to give students a first taste of trying to develop an artificial intelligence. Their player receives information about the state of the game over a network socket and is required to respond with a valid move. The template includes a trivial but valid player that simply randomly chooses a move from those remaining. Programming a player with small improvements is straightforward (for example, adding the intelligence to spot when a square can be taken). Programming a strong player is very difficult, partly because the branch factor for dots and boxes is very high.
